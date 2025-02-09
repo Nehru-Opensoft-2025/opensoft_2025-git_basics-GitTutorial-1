@@ -1,4 +1,4 @@
-# 📝 GitHub Assignment: Mastering Git_Basics
+# 📝 GitHub Classroom Assignment: Mastering Git Collaboration
 
 ## 📌 Objective:
 This assignment will help you learn essential Git commands required for real-world team collaboration. Each task covers different Git operations, including cloning, branching, merging, rebasing, stashing, and pull requests.
